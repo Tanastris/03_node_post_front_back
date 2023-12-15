@@ -1,0 +1,26 @@
+{
+  "name": "03_node_post_front_back",
+  "version": "1.0.0",
+  "description": "front and back, post request",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tanastris/03_node_post_front_back.git"
+  },
+  "keywords": [
+    "node",
+    "post",
+    "api",
+    "req.body",
+    "req.params"
+  ],
+  "author": "Rokas V",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tanastris/03_node_post_front_back/issues"
+  },
+  "homepage": "https://github.com/Tanastris/03_node_post_front_back#readme"
+}

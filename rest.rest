@@ -1,1 +1,11 @@
 GET http://localhost:3000/posts/dates
+
+### Create new post
+POST http://localhost:3000/posts
+Content-Type: application/json
+
+{
+  "title": "Post 8",
+    "content": "Body of post 8",
+    "date": "2023-11-01"
+}

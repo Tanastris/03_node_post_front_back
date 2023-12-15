@@ -9,3 +9,6 @@ Content-Type: application/json
     "content": "Body of post 8",
     "date": "2023-11-01"
 }
+
+### Get single post
+GET http://localhost:3000/posts/6

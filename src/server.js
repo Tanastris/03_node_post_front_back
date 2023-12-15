@@ -34,7 +34,7 @@ const postsArr = [
 
 let lastPostId = 4;
 // Middleware
-
+app.use(cors());
 app.use(morgan("dev"));
 app.use(express.json());
 
